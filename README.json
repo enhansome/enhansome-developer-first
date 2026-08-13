@@ -1,0 +1,689 @@
+{
+  "items": [
+    {
+      "description": "AI IDEs and AI Assistants.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenHands",
+          "description": "an open-source Devin alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:24:05Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cline",
+          "description": "Open-source VS Code plugin for Claude as a coding assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:46:30Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "Open-source terminal AI assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tabby",
+          "description": "Self-hosted open-source coding assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-30T20:38:02Z",
+            "owner": "TabbyML",
+            "repo": "tabby",
+            "stars": 33822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastra",
+          "description": "Build AI agents with a modern TypeScript stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:28:45Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kilo Code",
+          "description": "Fast, open-source AI coding agent for VS Code and JetBrains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:18:52Z",
+            "owner": "Kilo-Org",
+            "repo": "kilocode",
+            "stars": 26837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Copilot",
+          "description": "The “OG” AI IDE everyone heard about. Still kind of feels behind, but does integrate nicely with GitHub.",
+          "children": []
+        }
+      ],
+      "title": "AI Coding"
+    },
+    {
+      "description": "Track web/app visitors.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Open-source product analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:11:04Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plausible",
+          "description": "Simple, privacy-friendly, and open-source web analytics tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T16:28:17Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28481
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "Products that handle authentication and user identity for you.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuperTokens",
+          "description": "Open-source and hosted email & Oauth authentication with prebuilt UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:42:44Z",
+            "owner": "supertokens",
+            "repo": "supertokens-core",
+            "stars": 15261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanko",
+          "description": "Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:53:46Z",
+            "owner": "teamhanko",
+            "repo": "hanko",
+            "stars": 9004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack Auth",
+          "description": "Open-source Auth0 alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:18:16Z",
+            "owner": "hexclave",
+            "repo": "hexclave",
+            "stars": 6844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unkey",
+          "description": "Authentication, rate limiting and usage analytics for APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:18:16Z",
+            "owner": "hexclave",
+            "repo": "hexclave",
+            "stars": 6844
+          }
+        }
+      ],
+      "title": "Authentication & Identity"
+    },
+    {
+      "description": "Automate workflows via APIs and SDKs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "n8n",
+          "description": "Free and source-available fair-code licensed workflow automation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:57:05Z",
+            "owner": "n8n-io",
+            "repo": "n8n",
+            "stars": 200412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trigger.dev",
+          "description": "Open-source platform to create workflows from APIs, on a schedule or on demand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:54:12Z",
+            "owner": "triggerdotdev",
+            "repo": "trigger.dev",
+            "stars": 16001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potpie",
+          "description": "Open source AI agents for your codebase in minutes. Use pre-built agents for Q&A, testing, debugging, and system design, or create your own purpose-built agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:05:05Z",
+            "owner": "potpie-ai",
+            "repo": "potpie",
+            "stars": 5571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abstra",
+          "description": "Python-based workflow engine for custom business processes.",
+          "children": []
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Supabase",
+          "description": "Hosted and open-source managed Postgres DB like Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:02:27Z",
+            "owner": "supabase",
+            "repo": "supabase",
+            "stars": 107910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": "End-to-end backend server for frontend and mobile developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:22:20Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 56903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Encore",
+          "description": "Open-source TypeScript backend framework for robust type-safe applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:12:43Z",
+            "owner": "encoredev",
+            "repo": "encore",
+            "stars": 12253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nhost",
+          "description": "Open-source backend with a Postgres database, instant GraphQL API, authentication, storage, and serverless functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:42:23Z",
+            "owner": "nhost",
+            "repo": "nhost",
+            "stars": 9277
+          }
+        }
+      ],
+      "title": "Backend-as-a-Service"
+    },
+    {
+      "description": "Backend only Content Management System, you decide on frontend and consume content via API.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Strapi",
+          "description": "Open-source headless CMS, 100% JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:46:17Z",
+            "owner": "strapi",
+            "repo": "strapi",
+            "stars": 72858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "Blog platform, can be used as headless CMS (ex. with Hexo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T04:05:17Z",
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 54747
+          }
+        }
+      ],
+      "title": "CMS (headless)"
+    },
+    {
+      "description": "Storing data and processing it.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neon",
+          "description": "Serverless Postgres database with scale-to-zero, branching, autoscaling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-25T13:07:37Z",
+            "owner": "neondatabase",
+            "repo": "neon",
+            "stars": 22840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrateDB",
+          "description": "Distributed open-source SQL database for real-time analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T21:13:36Z",
+            "owner": "crate",
+            "repo": "crate",
+            "stars": 4417
+          }
+        }
+      ],
+      "title": "Databases & Spreadsheets"
+    },
+    {
+      "description": "Control production features with conditional flags in your code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unleash",
+          "description": "Open-source, privacy-first, and enterprise-ready feature management solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:50:00Z",
+            "owner": "Unleash",
+            "repo": "unleash",
+            "stars": 13733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrowthBook",
+          "description": "Open-source feature flag and experimentation platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:16:45Z",
+            "owner": "growthbook",
+            "repo": "growthbook",
+            "stars": 8119
+          }
+        }
+      ],
+      "title": "Feature Flags"
+    },
+    {
+      "description": "Declare your infrastructure and reproducibly provision cloud infrastructure from it.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terraform",
+          "description": "DSL, open-source, and free (paid solution adds team management, policy-as-code...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:11:29Z",
+            "owner": "hashicorp",
+            "repo": "terraform",
+            "stars": 49488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terrateam",
+          "description": "GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-12T13:08:13Z",
+            "owner": "stategraph",
+            "repo": "stategraph",
+            "stars": 1257
+          }
+        }
+      ],
+      "title": "Infrastructure as Code"
+    },
+    {
+      "description": "Integration management systems or products that ease integration development.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nango",
+          "description": "Hundreds of pre-built product integrations with 250+ APIs, customizable in code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:02:58Z",
+            "owner": "NangoHQ",
+            "repo": "nango",
+            "stars": 11429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panora",
+          "description": "Easy, flexible API to add customer-facing integrations to your SaaS product.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-26T00:04:02Z",
+            "owner": "panoratech",
+            "repo": "Panora",
+            "stars": 1033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revert",
+          "description": "Open-source unified API to build B2B product integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-07T06:37:36Z",
+            "owner": "revertinc",
+            "repo": "revert",
+            "stars": 1012
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "Monitoring your production application.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quivr",
+          "description": "Open-source RAG framework to deploy and use AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T12:55:23Z",
+            "owner": "QuivrHQ",
+            "repo": "quivr",
+            "stars": 39394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": "Open-source LLM observability platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:02:07Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 32999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": "Evaluate, test, and ship LLM applications across your dev and production lifecycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:50:50Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Highlight.io",
+          "description": "Full-stack monitoring platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T20:11:10Z",
+            "owner": "highlight",
+            "repo": "highlight",
+            "stars": 9366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anteon",
+          "description": "Kubernetes monitoring and performance testing — available on CLI, self-hosted, and cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-04T10:47:26Z",
+            "owner": "getanteon",
+            "repo": "anteon",
+            "stars": 8522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone AI",
+          "description": "LLM observabilty and monitoring for your LLM apps in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T01:10:06Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laminar",
+          "description": "Open-source platform for tracing, evaluating, and labeling LLM products.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:03:15Z",
+            "owner": "lmnr-ai",
+            "repo": "lmnr",
+            "stars": 3164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Future AGI",
+          "description": "Open-source self-hostable end-to-end LLMOps platform unifying tracing, evals, simulations, datasets, gateway, and guardrails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:18:15Z",
+            "owner": "future-agi",
+            "repo": "future-agi",
+            "stars": 1662
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "Index and search your content as a service API.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Meilisearch",
+          "description": "Open-source, fast, and relevant search engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:31:27Z",
+            "owner": "meilisearch",
+            "repo": "meilisearch",
+            "stars": 58950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cognee",
+          "description": "AI Memory layer for agents. Knowledge graph + vector search for contextual retrieval and reasoning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:48:01Z",
+            "owner": "topoteretes",
+            "repo": "cognee",
+            "stars": 29982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typesense Cloud",
+          "description": "Open-source and hosted search as a Service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T17:16:40Z",
+            "owner": "typesense",
+            "repo": "typesense",
+            "stars": 26431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentset",
+          "description": "Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T13:11:34Z",
+            "owner": "agentset-ai",
+            "repo": "agentset",
+            "stars": 2053
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "See here: CONTRIBUTING.md",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:24.631Z",
+    "original_repository": "agamm/awesome-developer-first",
+    "original_repository_sha": "241bb4794e11bbef357b9a3aeebd095d485f45c4",
+    "enhanced_repository": "enhansome/enhansome-developer-first",
+    "enhanced_repository_description": null,
+    "title": "Awesome Developer-First with stars"
+  }
+}
