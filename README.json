@@ -12,10 +12,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:13:05Z",
+            "last_commit": "2026-08-19T12:48:58Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84467
+            "stars": 84469
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 839037098,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:25:45Z",
+            "last_commit": "2026-08-19T12:59:18Z",
             "owner": "mastra-ai",
             "repo": "mastra",
             "stars": 27302
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 946087422,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:25:49Z",
+            "last_commit": "2026-08-19T12:57:36Z",
             "owner": "Kilo-Org",
             "repo": "kilocode",
-            "stars": 26926
+            "stars": 26925
           }
         }
       ],
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-19T12:26:23Z",
+            "last_commit": "2026-08-19T13:02:46Z",
             "owner": "PostHog",
             "repo": "posthog",
             "stars": 37772
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 160427405,
             "language": "Elixir",
-            "last_commit": "2026-08-19T12:19:48Z",
+            "last_commit": "2026-08-19T12:53:06Z",
             "owner": "plausible",
             "repo": "analytics",
             "stars": 28660
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-19T10:28:17Z",
             "owner": "supertokens",
             "repo": "supertokens-core",
-            "stars": 15263
+            "stars": 15264
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:26:49Z",
+            "last_commit": "2026-08-19T12:58:04Z",
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 201168
+            "stars": 201176
           }
         },
         {
@@ -225,10 +225,10 @@
             "archived": false,
             "id": 572570113,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:00:25Z",
+            "last_commit": "2026-08-19T13:01:17Z",
             "owner": "triggerdotdev",
             "repo": "trigger.dev",
-            "stars": 16063
+            "stars": 16064
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-19T11:35:52Z",
             "owner": "potpie-ai",
             "repo": "potpie",
-            "stars": 5621
+            "stars": 5624
           }
         }
       ],
@@ -261,10 +261,10 @@
             "archived": false,
             "id": 214587193,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:22:04Z",
+            "last_commit": "2026-08-19T13:01:50Z",
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108157
+            "stars": 108159
           }
         },
         {
@@ -276,7 +276,7 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:25:41Z",
+            "last_commit": "2026-08-19T12:54:30Z",
             "owner": "appwrite",
             "repo": "appwrite",
             "stars": 57056
@@ -291,7 +291,7 @@
             "archived": false,
             "id": 339786950,
             "language": "Go",
-            "last_commit": "2026-08-18T19:13:23Z",
+            "last_commit": "2026-08-19T12:56:40Z",
             "owner": "encoredev",
             "repo": "encore",
             "stars": 12266
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-19T11:39:30Z",
             "owner": "nhost",
             "repo": "nhost",
-            "stars": 9279
+            "stars": 9280
           }
         }
       ],
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 43441403,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:59:49Z",
+            "last_commit": "2026-08-19T13:01:50Z",
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 72966
+            "stars": 72967
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:21:39Z",
+            "last_commit": "2026-08-19T13:01:06Z",
             "owner": "TryGhost",
             "repo": "Ghost",
             "stars": 54796
@@ -366,7 +366,7 @@
             "last_commit": "2026-05-25T13:07:37Z",
             "owner": "neondatabase",
             "repo": "neon",
-            "stars": 22894
+            "stars": 22895
           }
         },
         {
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 9342529,
             "language": "Java",
-            "last_commit": "2026-08-19T12:15:38Z",
+            "last_commit": "2026-08-19T12:57:27Z",
             "owner": "crate",
             "repo": "crate",
             "stars": 4421
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 365373172,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:20:34Z",
+            "last_commit": "2026-08-19T12:57:23Z",
             "owner": "growthbook",
             "repo": "growthbook",
             "stars": 8139
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 17728164,
             "language": "Go",
-            "last_commit": "2026-08-19T12:09:54Z",
+            "last_commit": "2026-08-19T12:52:24Z",
             "owner": "hashicorp",
             "repo": "terraform",
             "stars": 49486
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 866997913,
             "language": "OCaml",
-            "last_commit": "2026-08-19T12:09:50Z",
+            "last_commit": "2026-08-19T13:02:07Z",
             "owner": "stategraph",
             "repo": "stategraph",
             "stars": 1263
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:58:36Z",
+            "last_commit": "2026-08-19T13:01:54Z",
             "owner": "NangoHQ",
             "repo": "nango",
             "stars": 11504
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:23:10Z",
+            "last_commit": "2026-08-19T12:59:15Z",
             "owner": "langfuse",
             "repo": "langfuse",
             "stars": 33381
@@ -552,10 +552,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-19T12:22:03Z",
+            "last_commit": "2026-08-19T13:01:10Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21471
+            "stars": 21474
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-19T12:18:25Z",
+            "last_commit": "2026-08-19T13:02:04Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1712
+            "stars": 1713
           }
         }
       ],
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 679343504,
             "language": "Python",
-            "last_commit": "2026-08-19T11:41:21Z",
+            "last_commit": "2026-08-19T12:28:20Z",
             "owner": "topoteretes",
             "repo": "cognee",
             "stars": 30112
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:57.478Z",
+    "last_updated": "2026-08-19T13:02:46.714Z",
     "original_repository": "agamm/awesome-developer-first",
     "original_repository_id": 298852257,
     "original_repository_sha": "241bb4794e11bbef357b9a3aeebd095d485f45c4",
