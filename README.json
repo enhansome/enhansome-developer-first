@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "homepage": "https://openhands.dev",
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:05:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:27:42Z",
+            "open_issues": 604,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 85465
+            "stars": 85482,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "chatgpt",
+              "claude-ai",
+              "cli",
+              "developer-tools",
+              "gpt",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -26,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+            "homepage": "https://cline.bot",
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:30:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:24:12Z",
+            "open_issues": 1139,
             "owner": "cline",
             "repo": "cline",
-            "stars": 67084
+            "stars": 67093,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -42,12 +62,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aider is AI pair programming in your terminal",
+            "homepage": "https://aider.chat/",
             "id": 638629097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
+            "open_issues": 1833,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48555
+            "stars": 48561,
+            "topics": [
+              "anthropic",
+              "chatgpt",
+              "claude-3",
+              "cli",
+              "command-line",
+              "gemini",
+              "gpt-3",
+              "gpt-35-turbo",
+              "gpt-4",
+              "gpt-4o",
+              "llama",
+              "openai",
+              "sonnet"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -58,12 +97,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI coding assistant",
+            "homepage": "https://tabbyml.com",
             "id": 614764248,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
+            "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33840
+            "stars": 33842,
+            "topics": [
+              "ai",
+              "codegen",
+              "coding-assistant",
+              "coding-language",
+              "developer-experience",
+              "developer-tools",
+              "gen-ai",
+              "ide",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -74,12 +128,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+            "homepage": "https://mastra.ai",
             "id": 839037098,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:09:09Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:15:57Z",
+            "open_issues": 544,
             "owner": "mastra-ai",
             "repo": "mastra",
-            "stars": 27547
+            "stars": 27548,
+            "topics": [
+              "agents",
+              "ai",
+              "chatbots",
+              "evals",
+              "javascript",
+              "llm",
+              "mcp",
+              "nextjs",
+              "nodejs",
+              "reactjs",
+              "tts",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -90,12 +163,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+            "homepage": "https://kilo.ai/",
             "id": 946087422,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:58:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:38:07Z",
+            "open_issues": 583,
             "owner": "Kilo-Org",
             "repo": "kilocode",
-            "stars": 27055
+            "stars": 27056,
+            "topics": [
+              "ai",
+              "ai-age",
+              "ai-coding",
+              "ai-developer-tools",
+              "chatgpt",
+              "claude",
+              "cli",
+              "gemini",
+              "jetbrains",
+              "sonnet",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -112,12 +203,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+            "homepage": "https://posthog.com",
             "id": 235901813,
             "language": "Python",
-            "last_commit": "2026-08-28T22:11:50Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:23:23Z",
+            "open_issues": 5143,
             "owner": "PostHog",
             "repo": "posthog",
-            "stars": 39420
+            "stars": 39437,
+            "topics": [
+              "ab-testing",
+              "ai-analytics",
+              "analytics",
+              "cdp",
+              "data-warehouse",
+              "experiments",
+              "feature-flags",
+              "javascript",
+              "product-analytics",
+              "python",
+              "react",
+              "session-replay",
+              "surveys",
+              "typescript",
+              "web-analytics"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -128,12 +240,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+            "homepage": "https://plausible.io",
             "id": 160427405,
             "language": "Elixir",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T09:21:12Z",
+            "open_issues": 62,
             "owner": "plausible",
             "repo": "analytics",
-            "stars": 28786
+            "stars": 28787,
+            "topics": [
+              "analytics",
+              "analytics-dashboard",
+              "clickhouse",
+              "elixir",
+              "google-analytics",
+              "marketing",
+              "open-source-analytics",
+              "phoenix",
+              "plausible-analytics",
+              "postgresql",
+              "privacy",
+              "privacy-friendly",
+              "self-hosted",
+              "simple-analytics",
+              "statistics",
+              "tailwindcss",
+              "web-analytics",
+              "website-analytics",
+              "website-stats",
+              "website-tracking"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -150,12 +288,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
+            "homepage": "https://supertokens.com",
             "id": 231921809,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:19:42Z",
+            "open_issues": 148,
             "owner": "supertokens",
             "repo": "supertokens-core",
-            "stars": 15288
+            "stars": 15288,
+            "topics": [
+              "auth0",
+              "authentication",
+              "aws-cognito",
+              "email-password",
+              "email-password-login",
+              "firebase-auth",
+              "hacktoberfest",
+              "java",
+              "keycloak",
+              "login",
+              "oauth",
+              "password",
+              "passwordless",
+              "passwordless-authentication",
+              "passwordless-login",
+              "session-management",
+              "signin",
+              "social-login",
+              "supertokens"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -166,12 +329,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.",
+            "homepage": "https://www.hanko.io",
             "id": 469828818,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:47:38Z",
+            "open_issues": 57,
             "owner": "teamhanko",
             "repo": "hanko",
-            "stars": 9017
+            "stars": 9016,
+            "topics": [
+              "2fa",
+              "authentication",
+              "ciam",
+              "fido2",
+              "iam",
+              "jwt",
+              "mfa",
+              "oauth",
+              "passkeys",
+              "passwordless",
+              "saml",
+              "sso",
+              "user-management",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -182,12 +365,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.",
+            "homepage": "https://hexclave.com",
             "id": 764642350,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:43:39Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:26:19Z",
+            "open_issues": 72,
             "owner": "hexclave",
             "repo": "hexclave",
-            "stars": 6843
+            "stars": 6843,
+            "topics": [
+              "analytics",
+              "api-keys",
+              "auth0",
+              "authentication",
+              "authorization",
+              "billing",
+              "clerk",
+              "emails",
+              "multi-tenancy",
+              "nextjs",
+              "oauth",
+              "passkeys",
+              "payments",
+              "posthog",
+              "rbac",
+              "self-hosted",
+              "subscriptions",
+              "supabase",
+              "teams"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -198,12 +406,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.",
+            "homepage": "https://hexclave.com",
             "id": 764642350,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:43:39Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:26:19Z",
+            "open_issues": 72,
             "owner": "hexclave",
             "repo": "hexclave",
-            "stars": 6843
+            "stars": 6843,
+            "topics": [
+              "analytics",
+              "api-keys",
+              "auth0",
+              "authentication",
+              "authorization",
+              "billing",
+              "clerk",
+              "emails",
+              "multi-tenancy",
+              "nextjs",
+              "oauth",
+              "passkeys",
+              "payments",
+              "posthog",
+              "rbac",
+              "self-hosted",
+              "subscriptions",
+              "supabase",
+              "teams"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -220,12 +453,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "homepage": "https://n8n.io",
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T20:04:40Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:02:59Z",
+            "open_issues": 1117,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 202712
+            "stars": 202732,
+            "topics": [
+              "ai",
+              "apis",
+              "automation",
+              "cli",
+              "data-flow",
+              "development",
+              "integration-framework",
+              "integrations",
+              "ipaas",
+              "low-code",
+              "low-code-platform",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "n8n",
+              "no-code",
+              "self-hosted",
+              "typescript",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -236,12 +495,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+            "homepage": "https://trigger.dev/changelog",
             "id": 572570113,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:28:15Z",
+            "open_issues": 427,
             "owner": "triggerdotdev",
             "repo": "trigger.dev",
-            "stars": 16153
+            "stars": 16153,
+            "topics": [
+              "ai",
+              "ai-agent-framework",
+              "ai-agents",
+              "automation",
+              "background-jobs",
+              "mcp",
+              "mcp-server",
+              "nextjs",
+              "orchestration",
+              "scheduler",
+              "serverless",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -252,12 +530,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context Graph for AI Native SDLC",
+            "homepage": "https://potpie.ai",
             "id": 841370602,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:21:30Z",
+            "open_issues": 110,
             "owner": "potpie-ai",
             "repo": "potpie",
-            "stars": 5703
+            "stars": 5703,
+            "topics": [
+              "agents",
+              "ai-agents",
+              "ai-agents-framework",
+              "artificial-intelligence",
+              "context-graph",
+              "developer-tools",
+              "devtools",
+              "generative-ai",
+              "knowledge-graph",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -274,12 +568,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "homepage": "https://supabase.com",
             "id": 214587193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:23:40Z",
+            "open_issues": 1059,
             "owner": "supabase",
             "repo": "supabase",
-            "stars": 108539
+            "stars": 108544,
+            "topics": [
+              "ai",
+              "alternative",
+              "auth",
+              "database",
+              "deno",
+              "embeddings",
+              "example",
+              "firebase",
+              "nextjs",
+              "oauth2",
+              "pgvector",
+              "postgis",
+              "postgres",
+              "postgresql",
+              "postgrest",
+              "realtime",
+              "supabase",
+              "vectors",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -290,12 +609,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:05:04Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:00Z",
+            "open_issues": 1027,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57156
+            "stars": 57154,
+            "topics": [
+              "android",
+              "appwrite",
+              "backend",
+              "backend-as-a-service",
+              "docker",
+              "firebase",
+              "flutter",
+              "hosting",
+              "ios",
+              "javascript",
+              "nextjs",
+              "react",
+              "react-native",
+              "reactnative",
+              "self-hosted",
+              "selfhosted",
+              "serverless",
+              "supabase",
+              "swift",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -306,12 +651,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The infrastructure platform for the intelligence era",
+            "homepage": "https://encore.dev",
             "id": 339786950,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T08:13:10Z",
+            "open_issues": 121,
             "owner": "encoredev",
             "repo": "encore",
-            "stars": 12318
+            "stars": 12318,
+            "topics": [
+              "aws",
+              "backend",
+              "cloud",
+              "cloud-native",
+              "database",
+              "devops",
+              "devops-automation",
+              "distributed-systems",
+              "encore",
+              "gcp",
+              "go",
+              "golang",
+              "infrastructure-as-code",
+              "infrastructure-automation",
+              "microservices",
+              "serverless",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -322,12 +690,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Firebase Alternative with GraphQL.",
+            "homepage": "https://nhost.io",
             "id": 337414495,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:15:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:17:51Z",
+            "open_issues": 141,
             "owner": "nhost",
             "repo": "nhost",
-            "stars": 9282
+            "stars": 9282,
+            "topics": [
+              "authentication",
+              "backend",
+              "backend-as-a-service",
+              "database",
+              "firebase",
+              "flutter",
+              "graphql",
+              "graphql-api",
+              "hasura",
+              "javascript",
+              "nextjs",
+              "nhost",
+              "postgres",
+              "react",
+              "serverless",
+              "serverless-functions",
+              "storage",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -344,12 +737,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "homepage": "https://strapi.io",
             "id": 43441403,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:44:41Z",
+            "open_issues": 545,
             "owner": "strapi",
             "repo": "strapi",
-            "stars": 73031
+            "stars": 73032,
+            "topics": [
+              "api",
+              "cms",
+              "cms-framework",
+              "content-management",
+              "content-management-system",
+              "customizable",
+              "dashboard",
+              "graphql",
+              "hacktoberfest",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "mysql",
+              "no-code",
+              "nodejs",
+              "posgresql",
+              "rest",
+              "strapi",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -360,12 +778,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+            "homepage": "https://ghost.org",
             "id": 9852918,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T20:48:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:55:24Z",
+            "open_issues": 131,
             "owner": "TryGhost",
             "repo": "Ghost",
-            "stars": 55076
+            "stars": 55076,
+            "topics": [
+              "blogging",
+              "cms",
+              "ghost",
+              "javascript",
+              "journalism",
+              "nodejs",
+              "publishing",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -382,12 +814,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+            "homepage": "https://neon.tech",
             "id": 351806852,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T13:07:37Z",
+            "open_issues": 557,
             "owner": "neondatabase",
             "repo": "neon",
-            "stars": 22980
+            "stars": 22983,
+            "topics": [
+              "database",
+              "postgres",
+              "postgresql",
+              "rust",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -398,12 +841,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+            "homepage": "https://cratedb.com/database",
             "id": 9342529,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:18:40Z",
+            "open_issues": 320,
             "owner": "crate",
             "repo": "crate",
-            "stars": 4429
+            "stars": 4429,
+            "topics": [
+              "analytics",
+              "big-data",
+              "cratedb",
+              "database",
+              "dbms",
+              "distributed",
+              "distributed-database",
+              "distributed-sql-database",
+              "elasticsearch",
+              "industrial-iot",
+              "iot",
+              "iot-analytics",
+              "iot-database",
+              "lucene",
+              "olap",
+              "postgresql",
+              "sql",
+              "time-series",
+              "tsdb",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -420,12 +889,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source feature management platform",
+            "homepage": "https://www.getunleash.io",
             "id": 24594933,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:59:02Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T01:33:47Z",
+            "open_issues": 51,
             "owner": "Unleash",
             "repo": "unleash",
-            "stars": 13769
+            "stars": 13769,
+            "topics": [
+              "activation-strategies",
+              "collaboration",
+              "continuous-delivery",
+              "continuous-deployment",
+              "devops",
+              "devtool",
+              "experiments",
+              "feature",
+              "feature-flags",
+              "feature-toggle",
+              "feature-toggles",
+              "feature-toggling",
+              "hacktoberfest",
+              "integration",
+              "platform-engineering",
+              "sdk",
+              "toggles",
+              "unleash",
+              "variants"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -436,12 +930,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Feature Flags, Experimentation, and Product Analytics",
+            "homepage": "https://www.growthbook.io",
             "id": 365373172,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:59:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:22:26Z",
+            "open_issues": 897,
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8168
+            "stars": 8168,
+            "topics": [
+              "ab-testing",
+              "abtest",
+              "abtesting",
+              "analytics",
+              "bigquery",
+              "clickhouse",
+              "continuous-delivery",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "databricks",
+              "experimentation",
+              "feature-flagging",
+              "feature-flags",
+              "redshift",
+              "remote-config",
+              "snowflake",
+              "split-testing",
+              "statistics",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -458,12 +978,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+            "homepage": "http://developer.hashicorp.com/terraform",
             "id": 17728164,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:50:59Z",
+            "open_issues": 1919,
             "owner": "hashicorp",
             "repo": "terraform",
-            "stars": 49563
+            "stars": 49562,
+            "topics": [
+              "cloud",
+              "cloud-management",
+              "graph",
+              "infrastructure-as-code",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -474,12 +1005,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform without the state file bottleneck",
+            "homepage": "https://stategraph.com",
             "id": 866997913,
             "language": "OCaml",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T15:23:10Z",
+            "open_issues": 107,
             "owner": "stategraph",
             "repo": "stategraph",
-            "stars": 1269
+            "stars": 1269,
+            "topics": [
+              "automation",
+              "cloud-management",
+              "devops",
+              "github-actions",
+              "infrastructure-as-code",
+              "infrastructure-automation",
+              "infrastructure-orchestration",
+              "ocaml",
+              "opentofu",
+              "pulumi",
+              "tacos",
+              "terraform",
+              "terraform-github-actions"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -496,12 +1046,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build product integrations with AI.",
+            "homepage": "https://nango.dev",
             "id": 254328371,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:08:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:37:18Z",
+            "open_issues": 121,
             "owner": "NangoHQ",
             "repo": "nango",
-            "stars": 11629
+            "stars": 11632,
+            "topics": [
+              "access-token",
+              "api",
+              "api-client",
+              "api-integration",
+              "api-integrations",
+              "integrations",
+              "oauth",
+              "oauth1",
+              "oauth2",
+              "product-integration",
+              "refresh-token",
+              "unified-api"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -512,12 +1080,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open-Sourcing the integration engine our platform runs on",
+            "homepage": "https://panora.dev",
             "id": 695675360,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-10-26T00:04:02Z",
+            "open_issues": 66,
             "owner": "panoratech",
             "repo": "Panora",
-            "stars": 1034
+            "stars": 1034,
+            "topics": [
+              "api",
+              "crm",
+              "docker",
+              "docker-compose",
+              "growth-hacking",
+              "javascript",
+              "monorepo",
+              "nestjs",
+              "oauth",
+              "open-core",
+              "open-source",
+              "postgresql",
+              "prisma",
+              "react",
+              "self-hosted",
+              "typescript",
+              "typescript-sdk",
+              "unified-api",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -528,12 +1121,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Revert makes it incredibly easy to build integrations with any third party API",
+            "homepage": "https://revert.dev",
             "id": 589964068,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-07T06:37:36Z",
+            "open_issues": 63,
             "owner": "revertinc",
             "repo": "revert",
-            "stars": 1012
+            "stars": 1012,
+            "topics": [
+              "access-token",
+              "api",
+              "crms",
+              "good-first-issue",
+              "hacktoberfest",
+              "hubspot",
+              "integration",
+              "integrations",
+              "nodejs",
+              "oauth",
+              "oauth2",
+              "oauth2-proxy",
+              "pipedrive",
+              "refresh-token",
+              "salesforce",
+              "salesforce-api",
+              "typescript",
+              "zendesk",
+              "zoho",
+              "zoho-crm"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -550,12 +1169,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source communication infrastructure for agents and products",
+            "homepage": "https://go.novu.co/github",
             "id": 400215964,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:16:44Z",
+            "open_issues": 104,
             "owner": "novuhq",
             "repo": "novu",
-            "stars": 39681
+            "stars": 39680,
+            "topics": [
+              "agents",
+              "communication",
+              "email",
+              "inbox",
+              "infrastructure",
+              "nodejs",
+              "notification-center",
+              "notifications",
+              "novu",
+              "push-notifications",
+              "react",
+              "reactjs",
+              "sms",
+              "transactional",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -572,12 +1212,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.",
+            "homepage": "https://daily.dev",
             "id": 110216866,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T13:59:10Z",
+            "open_issues": 7,
             "owner": "dailydotdev",
             "repo": "daily",
-            "stars": 20043
+            "stars": 20044,
+            "topics": [
+              "ai",
+              "ai-news",
+              "browser-extension",
+              "chrome-extension",
+              "community",
+              "developer-marketing",
+              "developer-news",
+              "developer-portal",
+              "developer-tools",
+              "edge-extension",
+              "hacker-news-alternative",
+              "news-aggregator",
+              "news-feed",
+              "news-feed-aggregator",
+              "newsfeed",
+              "professional-networking",
+              "pwa",
+              "tech-news",
+              "tech-newsletters",
+              "vibe-coding-friendly"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -594,12 +1260,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+            "homepage": "https://core.quivr.com",
             "id": 640079149,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-09T12:55:23Z",
+            "open_issues": 33,
             "owner": "QuivrHQ",
             "repo": "quivr",
-            "stars": 39429
+            "stars": 39432,
+            "topics": [
+              "ai",
+              "api",
+              "chatbot",
+              "chatgpt",
+              "database",
+              "docker",
+              "framework",
+              "frontend",
+              "groq",
+              "html",
+              "javascript",
+              "llm",
+              "openai",
+              "postgresql",
+              "privacy",
+              "rag",
+              "react",
+              "security",
+              "typescript",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -610,12 +1302,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+            "homepage": "https://langfuse.com",
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:04:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:21Z",
+            "open_issues": 860,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33868
+            "stars": 33872,
+            "topics": [
+              "analytics",
+              "autogen",
+              "evaluation",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "self-hosted",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -626,12 +1343,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+            "homepage": "https://www.comet.com/docs/opik/",
             "id": 638951438,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:16:26Z",
+            "open_issues": 213,
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21657
+            "stars": 21659,
+            "topics": [
+              "evaluation",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -642,12 +1378,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
+            "homepage": "https://app.highlight.io",
             "id": 289073337,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T23:34:52Z",
+            "open_issues": 554,
             "owner": "highlight",
             "repo": "highlight",
-            "stars": 9371
+            "stars": 9371,
+            "topics": [
+              "apm",
+              "full-stack",
+              "golang",
+              "metrics",
+              "monitoring",
+              "observability",
+              "open-source",
+              "self-hosted",
+              "session-replay",
+              "tracing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -658,12 +1411,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing",
+            "homepage": "https://getanteon.com",
             "id": 392596825,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-04T10:47:26Z",
+            "open_issues": 19,
             "owner": "getanteon",
             "repo": "anteon",
-            "stars": 8523
+            "stars": 8523,
+            "topics": [
+              "ddosify",
+              "docker",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "k8s",
+              "kubernetes",
+              "load-generator",
+              "load-testing",
+              "loadtesting",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -674,12 +1444,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+            "homepage": "https://www.helicone.ai",
             "id": 595832198,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:04:40Z",
+            "open_issues": 155,
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6108
+            "stars": 6109,
+            "topics": [
+              "agent-monitoring",
+              "analytics",
+              "evaluation",
+              "gpt",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-cost",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -690,12 +1485,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
+            "homepage": "https://laminar.sh",
             "id": 849139885,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:31:22Z",
+            "open_issues": 118,
             "owner": "lmnr-ai",
             "repo": "lmnr",
-            "stars": 3207
+            "stars": 3207,
+            "topics": [
+              "agent-observability",
+              "agents",
+              "ai",
+              "ai-observability",
+              "aiops",
+              "analytics",
+              "developer-tools",
+              "evals",
+              "evaluation",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "rust",
+              "rust-lang",
+              "self-hosted",
+              "ts",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -706,12 +1527,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+            "homepage": "https://futureagi.com",
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-28T15:21:38Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:27:54Z",
+            "open_issues": 774,
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1862
+            "stars": 1865,
+            "topics": [
+              "ai-agents",
+              "ai-evals",
+              "ai-gateway",
+              "ai-optimization",
+              "ai-simulations",
+              "evaluation-framework",
+              "guardrails",
+              "hallucination-detection",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "model-evaluation",
+              "observability",
+              "opentelemetry",
+              "rag",
+              "rag-evaluation",
+              "simulation",
+              "telemetry",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -722,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTelemetry observability platform",
+            "homepage": "https://maple.dev",
             "id": 1158615018,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:11:41Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:14:33Z",
+            "open_issues": 21,
             "owner": "MapleTechLabs",
             "repo": "maple",
-            "stars": 1730
+            "stars": 1730,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -744,12 +1596,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+            "homepage": "https://www.meilisearch.com",
             "id": 130688011,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T14:07:01Z",
+            "open_issues": 318,
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59117
+            "stars": 59118,
+            "topics": [
+              "ai",
+              "api",
+              "app-search",
+              "database",
+              "enterprise-search",
+              "faceting",
+              "full-text-search",
+              "fuzzy-search",
+              "geosearch",
+              "hybrid-search",
+              "instantsearch",
+              "search",
+              "search-as-you-type",
+              "search-engine",
+              "semantic-search",
+              "site-search",
+              "typo-tolerance",
+              "vector-database",
+              "vector-search",
+              "vectors"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -760,12 +1638,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+            "homepage": "https://www.cognee.ai",
             "id": 679343504,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:34:47Z",
+            "open_issues": 474,
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30324
+            "stars": 30330,
+            "topics": [
+              "agent-memory",
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ai-memory",
+              "cognitive-architecture",
+              "cognitive-memory",
+              "context-engineering",
+              "contributions-welcome",
+              "good-first-issue",
+              "good-first-pr",
+              "graph-database",
+              "graph-rag",
+              "help-wanted",
+              "knowledge",
+              "knowledge-graph",
+              "memory-management",
+              "open-source",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -776,12 +1679,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+            "homepage": "https://typesense.org",
             "id": 79317191,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T10:20:20Z",
+            "open_issues": 873,
             "owner": "typesense",
             "repo": "typesense",
-            "stars": 26485
+            "stars": 26486,
+            "topics": [
+              "algolia",
+              "datastore",
+              "elasticsearch",
+              "enterprise-search",
+              "faceting",
+              "full-text-search",
+              "fuzzy-search",
+              "geosearch",
+              "in-memory",
+              "instantsearch",
+              "merchandising",
+              "pinecone",
+              "search",
+              "search-engine",
+              "semantic-search",
+              "similarity-search",
+              "site-search",
+              "synonyms",
+              "typo-tolerance",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         },
@@ -792,12 +1721,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.",
+            "homepage": "https://agentset.ai",
             "id": 945763259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-16T13:11:34Z",
+            "open_issues": 14,
             "owner": "agentset-ai",
             "repo": "agentset",
-            "stars": 2078
+            "stars": 2078,
+            "topics": [
+              "agentic-rag",
+              "ai",
+              "ai-agents",
+              "ai-sdk",
+              "chatbots",
+              "embeddings",
+              "genai",
+              "llms",
+              "memory",
+              "memory-management",
+              "rag",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -814,12 +1761,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+            "homepage": "https://infisical.com",
             "id": 521655652,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:06:05Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:29:43Z",
+            "open_issues": 744,
             "owner": "Infisical",
             "repo": "infisical",
-            "stars": 29011
+            "stars": 29012,
+            "topics": [
+              "acme",
+              "certificate-management",
+              "cli",
+              "environment-variables",
+              "go",
+              "golang",
+              "node-js",
+              "open-source",
+              "pki",
+              "postgres",
+              "private-ca",
+              "secret-management",
+              "secret-manager",
+              "secret-scanning",
+              "secrets",
+              "secrets-management",
+              "security",
+              "security-tools",
+              "typescript",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -836,12 +1809,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome developer-first tools products.",
+            "homepage": null,
             "id": 298852257,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T21:31:26Z",
+            "open_issues": 5,
             "owner": "agamm",
             "repo": "awesome-developer-first",
-            "stars": 1793
+            "stars": 1793,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "developer-first",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T22:12:43.597Z"
         }
@@ -850,15 +1833,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:12:43.597Z",
+    "last_updated": "2026-08-29T04:29:08.871Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome developer-first tools products.",
+      "homepage": null,
       "id": 298852257,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-22T21:31:26Z",
+      "open_issues": 5,
       "owner": "agamm",
       "repo": "awesome-developer-first",
-      "stars": 1793
+      "stars": 1793,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-first",
+        "developer-tools"
+      ]
     },
     "original_repository_sha": "9019630e17ee124b22166e49aaad2ebf909e9951",
     "enhanced_repository": "enhansome/enhansome-developer-first",
